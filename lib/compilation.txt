@@ -1,0 +1,1 @@
+To compile simply add the libraylib.a file into this folder. Note that I compiled the library using openGl 4.3
